@@ -2,20 +2,17 @@
   "id": 26,
   "created_at": "2025-01-23T00:00:00Z",
   "seo_title": "Giphy Downloader - Free Content Download Tool",
-  "seo_description": "https://serp.ly/giphy-downloader",
+  "seo_description": null,
   "product_page_url": "https://store.serp.co/product-details/product/giphy-downloader",
   "purchase_url": "https://serp.ly/giphy-downloader",
   "store_product_id": null,
   "name": "Giphy Downloader",
-  "tagline": "https://serp.ly/giphy-downloader",
-  "featured_image": "images/giphy-downloader.jpg",
-  "featured_image_gif": "images/giphy-downloader.gif",
+  "tagline": "Save GIFs and stickers from Giphy in original quality with tags",
+  "featured_image": "https://raw.githubusercontent.com/serpapps/giphy-downloader/assets/images/giphy-downloader.jpg",
+  "featured_image_gif": "https://raw.githubusercontent.com/serpapps/giphy-downloader/assets/images/giphy-downloader.gif",
   "github_repo_url": "https://github.com/serpapps/giphy-downloader",
   "github_repo_tags": [
-    "giphy-downloader",
-    "downloader",
-    "automation",
-    "tools"
+    "giphy-downloader"
   ],
   "github_gist_url": null,
   "features": [
@@ -55,13 +52,11 @@
     "Node.js",
     "Automation"
   ],
-  "serpco_product_page_link": "https://store.serp.co/product-details/product/giphy-downloader",
-  "serpai_product_page_link": null,
+  "serpco_product_page_link": "https://serp.co/products/giphy-downloader/reviews/",
+  "serpai_product_page_link": "https://serp.ai/products/giphy-downloader/reviews/",
   "file_formats": null,
   "categories": [
-    "Video Downloaders",
-    "Content Tools",
-    "Automation"
+    "gif hosting"
   ],
   "extraction_targets": null,
   "content_medium": null,
@@ -72,21 +67,18 @@
     "devinschumacher"
   ],
   "funding_links_liberapay": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_opencollective": [
-    "serply"
+    "devinschumacher"
   ],
   "funding_links_custom": [
     "https://serpapps.github.io/giphy-downloader",
     "https://devinschumacher.com/giphy-downloader",
-    "https://serp.co/products/giphy-downloader/reviews/"
+    "https://serp.co/products/giphy-downloader/",
+    "https://github.com/sponsors/devinschumacher"
   ],
   "keywords": [
-    "giphy",
-    "downloader",
-    "automation",
-    "tool",
-    "free"
+    "giphy downloader"
   ]
 }
